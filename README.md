@@ -1,7 +1,7 @@
 name:karishma shaik
 id:IT64
 domain:python
-duration:30 march to 30 june 2024
+duration:1st april to 1st july 2024
 description:A simple calculator is a basic electronic device or application designed to perform arithmetic calculations quickly and accurately. It typically consists of a keypad with numerical buttons (0-9) and operational keys (+, -, ×, ÷), along with a display screen to show the input numbers and the result of calculations.
 
 The functionality of a simple calculator is straightforward. Users input numbers by pressing the corresponding numerical buttons, followed by the desired mathematical operation key. The calculator then processes the input and displays the result on the screen.
